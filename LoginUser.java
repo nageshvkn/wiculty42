@@ -1,9 +1,12 @@
 public class Login
-sljflsjfs
-fs
-fs
-f
-sf
-sf
-sf
-fs
+{
+   public static void main(String args[])
+   {
+	int a = 10;
+
+	for(i=0;i<=10;i++)
+	{
+	    System.out.println("Number: " + a);
+	}
+   }
+}
